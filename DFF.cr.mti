@@ -1,0 +1,15 @@
+C:/Users/DELL/Desktop/QuestaSim/DFF/dff.v {1 {vlog -work work -vopt {C:\Users\DELL\Desktop\QuestaSim\DFF\dff.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} C:/Users/DELL/Desktop/QuestaSim/DFF/dff_tb.v {1 {vlog -work work -vopt {C:\Users\DELL\Desktop\QuestaSim\DFF\dff_tb.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module dff_tb
+
+Top level modules:
+	dff_tb
+
+} {} {}}

@@ -1,0 +1,86 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/questasim64_10.2c/examples
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+V^XHfiOB@9I`f4BG@>2@LG1
+04 8 4 work dff_test fast 0
+=1-10653067c9ab-669966ff-8-1de8
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z1 OL;O;10.2c;57
+Z2 dC:/questasim64_10.2c/examples
+!s110 1721329407
+vdff
+!s100 N]8a2]<e56fVNQCO8j8e@3
+I^0lkEUTeFVH`HJjPQTXBO1
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+Z4 dC:/Users/DELL/Desktop/QuestaSim/DFF
+w1721329002
+8C:\Users\DELL\Desktop\QuestaSim\DFF\dff.v
+FC:\Users\DELL\Desktop\QuestaSim\DFF\dff.v
+L0 1
+Z5 OL;L;10.2c;57
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\DELL\Desktop\QuestaSim\DFF\dff.v|
+Z6 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z7 !s110 1721329446
+!s108 1721329446.226000
+!s107 C:\Users\DELL\Desktop\QuestaSim\DFF\dff.v|
+!i10b 1
+!s85 0
+!i111 0
+vdff_tb
+R7
+IdO8:Xj2f:dHZR]oTU^UEA1
+R3
+R4
+w1721329438
+Z8 8C:\Users\DELL\Desktop\QuestaSim\DFF\dff_tb.v
+Z9 FC:\Users\DELL\Desktop\QuestaSim\DFF\dff_tb.v
+L0 1
+R5
+r1
+31
+Z10 !s90 -reportprogress|300|-work|work|-vopt|C:\Users\DELL\Desktop\QuestaSim\DFF\dff_tb.v|
+R6
+!i10b 1
+!s100 =6EhG1[PBRi8WC5iQfk5f1
+!s85 0
+!s108 1721329446.312000
+Z11 !s107 C:\Users\DELL\Desktop\QuestaSim\DFF\dff_tb.v|
+!i111 0
+Tdff_tb_opt
+!s110 1721329449
+Vl[7]>Q<;FR6LAOj8oZe[i0
+04 6 4 work dff_tb fast 0
+o+acc
+ndff_tb_opt
+R1
+vdff_test
+!s110 1721329385
+IQk5DhZQ7K?4QE4Qz7dUBO1
+R3
+R4
+w1721329377
+R8
+R9
+L0 1
+R5
+r1
+31
+R10
+R6
+R11
+!s100 ^K`0oSg`RNVNgDL[`ooZ20
+!s108 1721329385.575000
+!i10b 1
+!s85 0
+!i111 0
